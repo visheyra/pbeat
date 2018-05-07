@@ -156,6 +156,15 @@
           type: keyword
           description: >
             OS family (e.g. redhat, debian, freebsd, windows).
+        - name: ip
+          type: ip
+          description: >
+            List of IP-addresses.
+        - name: mac
+          type: keyword
+          description: >
+            List of hardware-addresses, usually MAC-addresses.
+
 - key: kubernetes
   title: Kubernetes
   description: >

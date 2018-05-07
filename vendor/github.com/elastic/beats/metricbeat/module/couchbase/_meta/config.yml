@@ -1,2 +1,0 @@
-- module: couchbase
-  hosts: ["localhost:8091"]

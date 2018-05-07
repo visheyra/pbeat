@@ -1,2 +1,0 @@
-- module: php_fpm
-  hosts: ["localhost:8080"]

@@ -1,8 +1,0 @@
-- module: kubernetes
-  metricsets:
-    - container
-    - node
-    - pod
-    - system
-    - volume
-  hosts: ["localhost:10255"]
